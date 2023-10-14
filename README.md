@@ -16,7 +16,7 @@ Where could you enhance your code? How would these improvements make your code m
 - Efficiency: Instead of having multiple `if` statements, a single `if-else` or `switch` structure would be more efficient as only one condition would match.
 
 Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-From the perspective of examining the provided code, handling the user input (`cin >> op1 >> operation >> op2;`) and making corrections might have been challenging. However, referring to C++ documentation or forums like Stack Overflow would help in overcoming these challenges.
+- From the perspective of examining the provided code, handling the user input (`cin >> op1 >> operation >> op2;`) and making corrections might have been challenging. However, referring to C++ documentation or forums like Stack Overflow would help in overcoming these challenges.
 
 What skills from this project will be particularly transferable to other projects or coursework?
 - Basic operations in C++ and understanding user input.
